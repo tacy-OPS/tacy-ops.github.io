@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tacy-ops.github.io/firedocs-website/blog</id>
+    <id>http://firedocs.fr/blog</id>
     <title>Firedocs Blog</title>
     <updated>2025-07-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://tacy-ops.github.io/firedocs-website/blog"/>
+    <link rel="alternate" href="http://firedocs.fr/blog"/>
     <subtitle>Firedocs Blog</subtitle>
-    <icon>https://tacy-ops.github.io/firedocs-website/img/favicon.ico</icon>
+    <icon>http://firedocs.fr/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Bienvenue sur Firedocs]]></title>
-        <id>https://tacy-ops.github.io/firedocs-website/blog/bienvenue</id>
-        <link href="https://tacy-ops.github.io/firedocs-website/blog/bienvenue"/>
+        <id>http://firedocs.fr/blog/bienvenue</id>
+        <link href="http://firedocs.fr/blog/bienvenue"/>
         <updated>2025-07-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Une première introduction aux objectifs du site]]></summary>
         <content type="html"><![CDATA[<p>Bienvenue sur <strong>Firedocs</strong> ! Ce site est dédié aux fiches de révision opérationnelles pour les sapeurs-pompiers. 🔥🚒</p>

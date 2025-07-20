@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Firedocs Blog</title>
-        <link>https://tacy-ops.github.io/firedocs-website/blog</link>
+        <link>http://firedocs.fr/blog</link>
         <description>Firedocs Blog</description>
         <lastBuildDate>Sun, 20 Jul 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>fr</language>
         <item>
             <title><![CDATA[Bienvenue sur Firedocs]]></title>
-            <link>https://tacy-ops.github.io/firedocs-website/blog/bienvenue</link>
-            <guid>https://tacy-ops.github.io/firedocs-website/blog/bienvenue</guid>
+            <link>http://firedocs.fr/blog/bienvenue</link>
+            <guid>http://firedocs.fr/blog/bienvenue</guid>
             <pubDate>Sun, 20 Jul 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Une première introduction aux objectifs du site]]></description>
             <content:encoded><![CDATA[<p>Bienvenue sur <strong>Firedocs</strong> ! Ce site est dédié aux fiches de révision opérationnelles pour les sapeurs-pompiers. 🔥🚒</p>

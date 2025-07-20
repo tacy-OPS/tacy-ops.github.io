@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfiredocs=self.webpackChunkfiredocs||[]).push([[947],{6600:e=>{e.exports=JSON.parse('{"authors":[{"name":"Cyril TAVIAN","title":"SRE Engineer and Firefighter volunteer","url":"https://tacy-ops.github.io","page":{"permalink":"/blog/authors/all-cyril-tavian-articles"},"imageURL":"https://github.com/tacy-OPS.png","key":"tacy-OPS","count":1}]}')}}]);
