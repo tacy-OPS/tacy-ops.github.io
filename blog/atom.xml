@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://firedocs.fr/blog"/>
     <subtitle>Firedocs Blog</subtitle>
-    <icon>http://firedocs.fr/img/favicon.ico</icon>
+    <icon>http://firedocs.fr/img/favicon.ico.png</icon>
     <entry>
         <title type="html"><![CDATA[Bienvenue sur Firedocs]]></title>
         <id>http://firedocs.fr/blog/bienvenue</id>
