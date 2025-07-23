@@ -1,0 +1,126 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #decca8;
+  --ifm-color-primary-dark: #cb994d;
+  --ifm-color-primary-darker: #9f702a;
+  --ifm-color-primary-darkest: #9f702a;
+  --ifm-color-primary-light: #7d5b28;
+  --ifm-color-primary-lighter: #e7c98e;
+  --ifm-color-primary-lightest: #e7d5b1;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #decca8;
+  --ifm-color-primary-dark: #cb994d;
+  --ifm-color-primary-darker: #9f702a;
+  --ifm-color-primary-darkest: #9f702a;
+  --ifm-color-primary-light: #7d5b28;
+  --ifm-color-primary-lighter: #e7c98e;
+  --ifm-color-primary-lightest: #e7d5b1;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* 🔹 Mise en valeur des tableaux */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1rem 0;
+  font-size: 0.95rem;
+}
+table th,
+table td {
+  border: 1px solid #ddd;
+  padding: 0.6rem;
+  text-align: center;
+}
+table th {
+  background-color: #f5f5f5;
+  font-weight: bold;
+}
+
+/* 🔹 Style pour les sections titres personnalisés */
+.markdown h2 {
+  border-left: 4px solid #ff5722;
+  padding-left: 0.75rem;
+  margin-top: 2rem;
+}
+
+.markdown h3 {
+  color: #e53935;
+  font-size: 1.15rem;
+  margin-top: 1.5rem;
+}
+
+/* 🔹 Appels visuels (emojis callouts) */
+.markdown blockquote {
+  background: #fdf7f0;
+  border-left: 5px solid #ffa726;
+  padding: 1rem;
+  margin: 1rem 0;
+  font-style: italic;
+}
+
+[data-theme='light'] .DocSearch {
+  /* --docsearch-primary-color: var(--ifm-color-primary); */
+  /* --docsearch-text-color: var(--ifm-font-color-base); */
+  --docsearch-muted-color: var(--ifm-color-secondary-darkest);
+  --docsearch-container-background: rgba(94, 100, 112, 0.7);
+  /* Modal */
+  --docsearch-modal-background: var(--ifm-color-secondary-lighter);
+  /* Search box */
+  --docsearch-searchbox-background: var(--ifm-color-secondary);
+  --docsearch-searchbox-focus-background: var(--ifm-color-white);
+  /* Hit */
+  --docsearch-hit-color: var(--ifm-font-color-base);
+  --docsearch-hit-active-color: var(--ifm-color-white);
+  --docsearch-hit-background: var(--ifm-color-white);
+  /* Footer */
+  --docsearch-footer-background: var(--ifm-color-white);
+}
+
+[data-theme='dark'] .DocSearch {
+  --docsearch-text-color: var(--ifm-font-color-base);
+  --docsearch-muted-color: var(--ifm-color-secondary-darkest);
+  --docsearch-container-background: rgba(47, 55, 69, 0.7);
+  /* Modal */
+  --docsearch-modal-background: var(--ifm-background-color);
+  /* Search box */
+  --docsearch-searchbox-background: var(--ifm-background-color);
+  --docsearch-searchbox-focus-background: var(--ifm-color-black);
+  /* Hit */
+  --docsearch-hit-color: var(--ifm-font-color-base);
+  --docsearch-hit-active-color: var(--ifm-color-white);
+  --docsearch-hit-background: var(--ifm-color-emphasis-100);
+  /* Footer */
+  --docsearch-footer-background: var(--ifm-background-surface-color);
+  --docsearch-key-gradient: linear-gradient(
+    -26.5deg,
+    var(--ifm-color-emphasis-200) 0%,
+    var(--ifm-color-emphasis-100) 100%
+  );
+}
+
+/* src/css/custom.css */
+
+h1 {
+  font-size: 2rem !important; /* par défaut c’est très grand (souvent 3rem) */
+}
+
+h2 {
+  font-size: 1.5rem !important;
+}
+
+h3 {
+  font-size: 1.25rem !important;
+}
+
+/* etc. */

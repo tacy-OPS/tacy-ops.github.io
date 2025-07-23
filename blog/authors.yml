@@ -1,0 +1,8 @@
+tacy-OPS:
+  name: Cyril TAVIAN
+  title: SRE Engineer and Firefighter volunteer
+  url: https://tacy-ops.github.io
+  image_url: https://github.com/tacy-OPS.png
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: '/all-cyril-tavian-articles'
