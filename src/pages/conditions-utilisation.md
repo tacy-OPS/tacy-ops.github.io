@@ -13,11 +13,11 @@ Le site **Firedocs.fr** propose des fiches de révision à destination des sapeu
 
 ## 2. Acceptation
 
-L’accès et l’utilisation du site impliquent l’acceptation pleine et entière des présentes CGU.
+L'accès et l'utilisation du site impliquent l'acceptation pleine et entière des présentes CGU.
 
 ## 3. Responsabilité
 
-Le site est fourni à titre informatif. Malgré le soin apporté, l’auteur ne garantit pas l’exactitude ou l’exhaustivité des informations diffusées.
+Le site est fourni à titre informatif. Malgré le soin apporté, l'auteur ne garantit pas l'exactitude ou l'exhaustivité des informations diffusées.
 
 ## 4. Propriété intellectuelle
 
