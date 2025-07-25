@@ -15,7 +15,7 @@ Le site est hébergé sur GitHub Pages.
 GitHub, Inc. – 88 Colin P. Kelly Jr St, San Francisco, CA 94107, USA
 
 **Propriété intellectuelle :**  
-Les contenus présents sur le site Firedocs (textes, images, illustrations, etc.) sont protégés par le droit d’auteur.  
+Les contenus présents sur le site Firedocs (textes, images, illustrations, etc.) sont protégés par le droit d'auteur.  
 Toute reproduction ou redistribution sans autorisation est interdite.
 
 **Crédits :**  
