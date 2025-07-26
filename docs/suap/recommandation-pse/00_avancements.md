@@ -97,13 +97,14 @@
 
 Total : 73 Fiches. 
 
-- [ ] Découper le livret en plusieurs PDF 
-- [ ] Evaluer les fiches de révision en comparant les PDF
-- [ ] Réaliser le chapitre 7
-- [ ] Réaliser le chapitre 8
-- [ ] Réaliser le chapitre 9
-- [ ] Réaliser le chapitre 10
-- [ ] Réaliser le chapitre 11
+- [x] Découper le livret en plusieurs PDF 
+- [x] Evaluer les fiches de révision en comparant les PDF
+- [x] Réaliser le chapitre 7
+- [x] Réaliser le chapitre 8
+- [x] Réaliser le chapitre 9
+- [x] Réaliser le chapitre 10
+- [x] Réaliser le chapitre 11
+- [ ] Finaliser les indoex 8 à 11
 - [ ] Revalider les chapitre 7 à 11
 - [ ] Réviser l'index des chapitres (carde + images ?)
 - [ ] Ajouter la fonctionnalité exporter PDF 
