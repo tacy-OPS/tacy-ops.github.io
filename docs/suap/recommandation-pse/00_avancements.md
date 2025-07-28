@@ -104,8 +104,8 @@ Total : 73 Fiches.
 - [x] Réaliser le chapitre 9
 - [x] Réaliser le chapitre 10
 - [x] Réaliser le chapitre 11
-- [ ] Finaliser les indoex 8 à 11
-- [ ] Revalider les chapitre 7 à 11
+- [x] Finaliser les indoex 8 à 11
+- [ ] Revalider les chapitre 1 à 11 - Actuellement au chapitre 5 OVA. Le chapitre 7 est déjà fait. 
 - [ ] Réviser l'index des chapitres (carde + images ?)
 - [ ] Ajouter la fonctionnalité exporter PDF 
 - [ ] Ajouter du contenu vidéo 
