@@ -99,11 +99,6 @@ const config = {
             label: 'Test de niveau',
             position: 'right',
           },
-          {
-            href: 'https://github.com/tacy-OPS/tacy-ops.github.io/',
-            label: 'GitHub',
-            position: 'right',
-          },
         ],
       },
       algolia: {
