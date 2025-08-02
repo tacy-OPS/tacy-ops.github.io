@@ -30,7 +30,7 @@ const config = {
   organizationName: 'tacy-ops', // Usually your GitHub org/user name.
   projectName: 'firedocs-website', // Usually your repo name.
   deploymentBranch: 'gh-pages', // The branch that GitHub pages will deploy from.
-  onBrokenLinks: 'warn',
+  // onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   trailingSlash: false, // Whether to add a trailing slash to URLs
   // Even if you don't use internationalization, you can use this field to set
